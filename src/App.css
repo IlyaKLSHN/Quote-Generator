@@ -8,11 +8,11 @@
 
 body {
   font-family: 'Nunito', sans-serif;
-  background: #0059ff;
+  background: #000000;
 }
 
 #quote-box {
-  background: #fff;
+  background: rgb(255, 253, 253);
   width: 40rem;
   margin: 10rem auto;
   padding: 3rem;
@@ -58,9 +58,9 @@ body {
 }
 
 #new-quote {
-  background: #0059ff;
+  background: #000000;
   border: none;
-  color: #fff;
+  color: rgb(255, 255, 255);
   padding: .7rem 1rem;
   font-size: .9rem;
   font-weight: bold;

@@ -36,14 +36,8 @@ const Quotes = () => {
 
       <div id="buttons">
         <div className="social-media">
-          <a href="#" id="twet-quote">
-            <span><img src={twitterIcon} alt="" /></span>
-          </a>
-          <a href="#" id="tumlr-quote">
-            <span><img src={tumblrIcon} alt="" /></span>
-          </a>
         </div>
-        <button onClick={handleClick} id="new-quote">New Quote</button>
+        <button onClick={handleClick} id="new-quote">Новая цитата</button>
       </div>
     </div>
   )
